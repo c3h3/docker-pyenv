@@ -1,6 +1,6 @@
 FROM debian:jessie
 
-MAINTAINER Chia-Chi Chang <c3h3.tw@gmail.com
+MAINTAINER Chia-Chi Chang <c3h3.tw@gmail.com>
 
 ENV DEBIAN_FRONTEND noninteractive
 
