@@ -1,4 +1,4 @@
-FROM debian:jessie
+FROM ubuntu:14.04.1
 
 MAINTAINER Chia-Chi Chang <c3h3.tw@gmail.com>
 
