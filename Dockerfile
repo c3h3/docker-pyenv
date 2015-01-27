@@ -14,3 +14,5 @@ RUN curl -L https://raw.githubusercontent.com/yyuu/pyenv-installer/master/bin/py
 
 RUN echo 'eval "$(pyenv init -)"' >  /root/.bashrc
 
+RUN pyenv install 2.7.8 && pyenv global 2.7.8
+
